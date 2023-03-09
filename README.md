@@ -3,7 +3,7 @@
 
 **I aspire to become Junior Front End Developer.**
 
-**I'm currently learning Angular.**
+**I'm currently learning React.**
 
 **_Technologies:_**
 
