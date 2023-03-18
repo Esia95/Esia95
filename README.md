@@ -40,7 +40,7 @@
 <div>
  <p>Teamwork and interpersonal skills 👏</p>
  <p>Positive attitude to challenges 🤓</p>
- <p>Fast leraner 🧠</p>
+ <p>Fast learner 🧠</p>
  <p>Problem solving 💡</p>
  <p>Very good organization of work 🗓️</p>
   </div>
