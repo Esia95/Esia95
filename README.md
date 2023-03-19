@@ -11,7 +11,7 @@
 </a>
 
  
-  <b>Esteranowak95@gmail.com</b>
+  <b>esteranowak95@gmail.com</b>
   
   **Hi, I'm Estera 👋🏻**
 
