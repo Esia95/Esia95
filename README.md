@@ -30,9 +30,9 @@
 ![4](https://user-images.githubusercontent.com/99197755/226105667-9165ac65-d840-46d5-bbc2-dc21601f7fe6.png)
 
 
-  <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=Esia95&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
+  <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=Esia95&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=a9bcdb&title_color=4b6da4&icon_color=388286">
   
-  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esia95&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286">
+  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esia95&layout=compact&hide_border=true&bg_color=00000000&text_color=a9bcdb&custom_title=Top+Languages&title_color=4b6da4">
 
 ---
 
